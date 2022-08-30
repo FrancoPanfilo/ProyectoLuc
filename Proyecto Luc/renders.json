@@ -1,0 +1,76 @@
+{
+    "renders": [
+        {
+            "id": 0,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 1,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 2,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 3,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 4,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 5,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 6,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 7,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        },
+        {
+            "id": 8,
+            "imagenes": [
+                "https://images7.alphacoders.com/341/341714.jpg"
+            ],
+            "estilo": "diurno",
+            "descripcion": "SIN DESCRIPCION"
+        }
+    ]
+}
